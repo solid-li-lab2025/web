@@ -7,7 +7,7 @@ aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://tianyulixyz.github.io/Web/
+  home-page: 'https://tianyulixyz.github.io/Web/'
   orcid:0000-0003-0142-7252
 ---
 
