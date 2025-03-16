@@ -5,6 +5,6 @@
 
   # solid-li-lab2025's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[solid-li-lab2025.github.io/web](https://solid-li-lab2025.github.io/web)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
