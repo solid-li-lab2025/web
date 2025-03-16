@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-#Current Members
+## Current Members
 
 {% include section.html %}
 
@@ -16,7 +16,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Alumi
+## Alumi
 
 {% include section.html %}
 
