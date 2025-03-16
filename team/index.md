@@ -14,6 +14,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi' and group !='alum'" %}
 
+{% include grid.html style="square" content=content %}
 
 
 ## Alumni
@@ -22,7 +23,7 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' and group =='alum'" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
