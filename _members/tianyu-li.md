@@ -12,20 +12,20 @@ links:
   orcid: 0000-0003-0142-7252
 ---
 
-## Work Experience
-2025-present: 
+<p style="font-size: 20px; font-weight: bold;">Work Experience</p>
+<p>2025-present:<p> 
 Assistant Professor, Louisiana Tech University
 
-2023-2025:  
+<p>2023-2025:<p>  
 Postdoc Fellow, University of California, Santa Barbara
 
-2016-2017:  
+<p>2016-2017:<p>  
 Undergraduate research intern, Yale University
 
-## Education
-2017-2022:  
+<p style="font-size: 20px; font-weight: bold;">Education</p>
+<p>2017-2022:<p>  
 Ph.D in Materials Chemistry, University of Maryland, College Park
 
-2013-2017: 
+<p>2013-2017: <p>
 B. SC in Chemistry, Nankai University, Tianjin, China
 
