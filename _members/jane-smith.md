@@ -8,6 +8,7 @@ aliases:
 
 links:
   home-page: https://tianyulixyz.github.io/Web
+  google-scholar: https://scholar.google.com/citations?user=3i3BkJUAAAAJ&hl=en
   orcid: https://orcid.org/0000-0003-0142-7252
 ---
 
