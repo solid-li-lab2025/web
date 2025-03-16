@@ -13,19 +13,19 @@ links:
 ---
 
 ## Work Experience
-09/01/2025-present: 
+2025-present: 
 Assistant Professor, Louisiana Tech University
 
-01/01/2023-07/01/2025:  
+2023-2025:  
 Postdoc Fellow, University of California, Santa Barbara
 
-10/01/2016-05/01/2017:  
+2016-2017:  
 Undergraduate research intern, Yale University
 
 ## Education
-12/01/2017-12/21/2022:  
+2017-2022:  
 Ph.D in Materials Chemistry, University of Maryland, College Park
 
-07/01/2013-06/01/2017: 
+2013-2017: 
 B. SC in Chemistry, Nankai University, Tianjin, China
 
