@@ -16,7 +16,7 @@ nav:
 
 
 
-## Alumi
+## Alumni
 
 {% include section.html %}
 
