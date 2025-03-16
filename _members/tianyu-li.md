@@ -13,19 +13,14 @@ links:
 ---
 
 <p style="font-size: 20px; font-weight: bold;">Work Experience</p>
-<p>2025-present:<p> 
-Assistant Professor, Louisiana Tech University
+<p>2025-present: Assistant Professor, Louisiana Tech University<p> 
 
-<p>2023-2025:<p>  
-Postdoc Fellow, University of California, Santa Barbara
+<p>2023-2025: Postdoc Fellow, University of California, Santa Barbara<p>
 
-<p>2016-2017:<p>  
-Undergraduate research intern, Yale University
+<p>2016-2017: Undergraduate research intern, Yale University<p>
 
 <p style="font-size: 20px; font-weight: bold;">Education</p>
-<p>2017-2022:<p>  
-Ph.D in Materials Chemistry, University of Maryland, College Park
+<p>2017-2022: Ph.D, University of Maryland, College Park
 
-<p>2013-2017: <p>
-B. SC in Chemistry, Nankai University, Tianjin, China
+<p>2013-2017: B. SC, Nankai University, Tianjin, China<p>
 
