@@ -26,3 +26,6 @@ nav:
 
 
 
+{% include grid.html style="square" content=content %}
+
+
