@@ -1,9 +1,9 @@
 ---
 ---
 
-# solid-li-lab2025's Website
+# Welcome!
 
-An engaging 1-3 sentence description of your lab.
+Our Lab performs interdisciplinary research to synthesize and understand the  structure dynamics of novel solid state materials. Currently we are interested in energy storage materials, quantum materials, and heterocatalysts. We welcome students with backgrounds in chemistry, physics, and (chemical, materials, mechanical) engineering to join us :)
 
 {% include section.html %}
 
