@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="research"
+  link="projects"
   text="Learn more about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="projects"
   title="Our Research"
   text=text
 %}
@@ -38,8 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="projects"
-  text="Browse our publication"
+  link="team"
+  text="learn more about our research team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,12 +50,37 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Most recent publication"
+  link="team"
+  title="Group photo 2025"
   flip=true
   style="bare"
   text=text
 %}
+
+
+{% capture text %}
+
+Coming soon.
+
+{%
+  include button.html
+  link="publication"
+  text="Browse our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link=publication"
+  title="Recent events"
+  text=text
+%}
+
 
 {% capture text %}
 
@@ -63,9 +88,9 @@ Tianyu finished his postdoc fellowship at UCSB. I will miss the life in Santa Ba
 
 {%
   include button.html
-  link="team"
+  link="blog"
   text="learn about past events"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
