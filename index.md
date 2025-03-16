@@ -76,7 +76,7 @@ Coming soon.
 {%
   include feature.html
   image="images/photo.jpg"
-  link=publication"
+  link="publication"
   title="Recent events"
   text=text
 %}
