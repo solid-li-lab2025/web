@@ -1,7 +1,7 @@
 ---
-title: Publications
+title: Research
 nav:
-  order: 3
+  order: 1
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
