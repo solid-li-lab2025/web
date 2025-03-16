@@ -77,7 +77,7 @@ Coming soon...
   include feature.html
   image="images/photo.jpg"
   link="publication"
-  title="Recent events"
+  title="New publication coming out!"
   text=text
 %}
 
@@ -90,7 +90,7 @@ Tianyu finished his postdoc fellowship at UCSB. I will miss the life in Santa Ba
   include button.html
   link="blog"
   text="learn about past events"
-  icon="fa-solid fa-arrow-left"
+  icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
