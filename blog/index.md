@@ -2,7 +2,7 @@
 title: Events
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Update and News
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Folloew our growth :)
