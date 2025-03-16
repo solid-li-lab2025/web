@@ -1,23 +1,18 @@
-- id: doi:10.1371/journal.pcbi.1007128
+
+- id: doi:10.1021/jacs.4c04639
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: A comprehensive understanding on the structuretransformation of DRX cathodes.
+  image: https://pubs.acs.org/cms/10.1021/jacs.4c04639/asset/images/large/ja4c04639_0010.jpeg
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
       text: Manuscript Source
       link: https://github.com/greenelab/meta-review
-    - type: website
+    - type: news
       link: http://manubot.org/
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - Cathode
+    - Li-ion Battery 
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.1021/jacs.4c04639
-  image: https://pubs.acs.org/cms/10.1021/jacs.4c04639/asset/images/large/ja4c04639_0010.jpeg
+  
+- id: doi:10.1016/j.nanoen.2017.03.009
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211285517301404-fx1_lrg.jpg
