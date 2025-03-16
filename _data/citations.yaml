@@ -369,7 +369,4 @@
   orcid: 0000-0003-0142-7252
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - Perovskite
-  - Oxides
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2211285517301404-fx1_lrg.jpg
