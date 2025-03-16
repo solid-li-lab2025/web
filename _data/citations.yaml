@@ -54,7 +54,19 @@
   orcid: 0000-0003-0142-7252
   plugin: sources.py
   file: sources.yaml
+  type: paper
+  description: A comprehensive understanding of the structural transformation of DRX
+    cathodes.
   image: https://pubs.acs.org/cms/10.1021/jacs.4c04639/asset/images/large/ja4c04639_0010.jpeg
+  buttons:
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: news
+    link: http://manubot.org/
+  tags:
+  - Cathode
+  - Li-ion Battery
 - id: doi:10.1038/s41560-024-01619-2
   title: Asymmetric electrolyte design for high-energy lithium-ion batteries with
     micro-sized alloying anodes
@@ -362,47 +374,6 @@
   date: '2017-11-01'
   link: https://doi.org/gcmpzr
   orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211285517301404-fx1_lrg.jpg
