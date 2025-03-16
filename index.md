@@ -6,7 +6,7 @@
 Our Lab performs interdisciplinary research to synthesize and understand the  structure dynamics of novel solid state materials. Currently we are interested in energy storage materials, quantum materials, and heterocatalysts. We welcome students with backgrounds in chemistry, physics, and (chemical, materials, mechanical) engineering to join us :)
 
 {% include section.html %}
-
+{% include figure.html image="images/seal.png" width="100%" %}
 ## Highlights
 
 {% capture text %}
