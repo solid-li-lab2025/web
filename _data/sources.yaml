@@ -1,14 +1,7 @@
 
 - id: doi:10.1021/jacs.4c04639
-  type: paper
   description: A comprehensive understanding of the structural transformation of DRX cathodes.
   image: https://pubs.acs.org/cms/10.1021/jacs.4c04639/asset/images/large/ja4c04639_0010.jpeg
-  buttons:
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: news
-      link: http://manubot.org/
   tags:
     - Cathode
     - Li-ion Battery 
