@@ -2,13 +2,13 @@
 name: Tianyu Li
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Louisiana Tech University
 aliases:
-  - J. Smith
-  - J Smith
+  - T. Li
+
 links:
-  home-page: 'https://tianyulixyz.github.io/Web/'
-  orcid:0000-0003-0142-7252
+  home-page: https://tianyulixyz.github.io/Web
+  orcid: https://orcid.org/0000-0003-0142-7252
 ---
 
 ##Work Experience
