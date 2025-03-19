@@ -6,7 +6,7 @@ nav:
 ---
 
 
-# {% include icon.html icon="fa-solid fa-file" %}Research
+# {% include icon.html icon="fa-solid fa-file" %}Publications
 ## Highlighted
 
 {% include citation.html lookup="Structural Evolution in Disordered Rock Salt Cathodes" style="rich" %}
