@@ -9,6 +9,8 @@ nav:
 
 We always welcome motivated undergraduate and graduate students with different backgrounds to join our team. Feel free to shoot Dr. Li an email if you want to work with us :)
 
+Currently, we don't have postdoc openings. 
+
 {%
   include button.html
   type="email"
