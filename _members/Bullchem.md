@@ -1,6 +1,6 @@
 ---
 name: Bullchem
-image: images/groupmember/alu_dog.jpg
+image: images/groupmember/alu_dog.png
 role: PhD
 group: alum
 links:
