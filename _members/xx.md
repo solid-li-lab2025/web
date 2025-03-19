@@ -4,7 +4,7 @@ image: images/groupmember/x.png
 description: PhD student
 role: phd
 links:
-  email:solid.crystal.lab2025@gmail.com
+  email: solid.crystal.lab2025@gmail.com
   twitter: sarahjohnson
 ---
 
