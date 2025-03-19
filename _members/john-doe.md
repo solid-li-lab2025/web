@@ -1,10 +1,10 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
+name: Bullchem
+image: images/groupmember/alu_dog.jpg
+role: PhD
 group: alum
 links:
-  github: john-doe
+  web: https://coes.latech.edu/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am a hardworking chemist dog. I wear lab coat and safety glasses all the time in the lab!
