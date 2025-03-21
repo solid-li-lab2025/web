@@ -19,6 +19,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 <h1 class="center">{{ page.title }}</h1>
-{% include list.html component="card" data="resources" %}
+{% include list.html  data="resources" %}
 
 
