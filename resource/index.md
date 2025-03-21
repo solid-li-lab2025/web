@@ -22,7 +22,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
   {% include list.html
   data="resources"
-  component="post-excerpt" %}
+  component="resource-excerpt" %}
 
 
 {% endcapture %}
