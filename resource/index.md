@@ -20,4 +20,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include list.html component="card" data="posts" %}
 
-
+{%
+  include grid.html
+  content=content
+  style="square"
+%}
