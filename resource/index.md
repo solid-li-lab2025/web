@@ -21,8 +21,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% for resource in site.resources %}
    <h2>
-    <a href="{{ resources.url }}">
-      {{ resources.title }}
+    <a href="{{ resource.url }}">
+      {{ resource.title }}
     </a>
   </h2>
 
