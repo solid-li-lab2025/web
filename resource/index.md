@@ -18,7 +18,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include search-info.html %}
 
 {% include section.html %}
-<h1 class="center">{{ page.title }}</h1>
-{% include list.html  data="resources" %}
 
+{% for resource in site.resources %}
+
+  </h2>
+  <p>{{ resource.content | markdownify }}</p>
+{% endfor %}
 
