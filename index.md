@@ -104,7 +104,7 @@ Tianyu finished his postdoc fellowship at UCSB. I will miss the life in Santa Ba
   include feature.html
   image="images/photo.jpg"
   link="blog"
-  title="Recent events"
+  title="Recent News"
   flip=true
   style="bare"
   text=text
