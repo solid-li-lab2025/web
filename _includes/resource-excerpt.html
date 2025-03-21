@@ -37,21 +37,6 @@
         tags=resource.tags
       %}
 
-      {% assign excerpt = resource.content
-        | default: ""
-        | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
-        | default: resource.excerpt
-        | default: ""
-        | strip_html
-      %}
-      {% assign search = resource.content
-        | strip_html
-        | strip_newlines
-        | regex_strip
-      %}
-      <p data-search="{{ search }}">
-        {{ excerpt }}
-      </p>
     </div>
   </div>
 </div>
