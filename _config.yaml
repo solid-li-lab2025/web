@@ -37,7 +37,7 @@ defaults:
   - scope:
       type: "resources"
     values:
-      layout: post
+      layout: resource
 
 
 
