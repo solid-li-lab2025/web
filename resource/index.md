@@ -17,12 +17,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-{% for resource in site.resources %}
-   <h2>
-    <a href="{{resource.url}}">
-      {{ resource.title }}
-    </a>
-  </h2>
-
-{% endfor %}
+{% include list.html data="resources" component="resource" %}
 
