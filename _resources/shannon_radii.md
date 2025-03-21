@@ -1,6 +1,6 @@
 ---
 title: Shannon Radii table
-image: images/photo.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/9/9f/Atomic_%26_ionic_radii.svg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
