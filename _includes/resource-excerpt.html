@@ -11,7 +11,7 @@
 <div class="post-excerpt-container">
   <div class="post-excerpt">
     {% assign url = resource.url | relative_url | uri_escape %}
-    <class="center">{% assign title = resource.title %}</>
+    <div class="title-center">{% assign title = resource.title %}</div>
     {% assign image = resource.image | relative_url | uri_escape %}
 
     {% if image %}
