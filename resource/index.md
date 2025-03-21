@@ -20,8 +20,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include section.html %}
 
 {% for resource in site.resources %}
-
+   <h2>
+    <a href="{{ resources.url }}">
+      {{ resources.title }}
+    </a>
   </h2>
-  <p>{{ resource.content | markdownify }}</p>
+
 {% endfor %}
 
