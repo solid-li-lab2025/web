@@ -5,6 +5,6 @@ tags: science
 ---
 
 
-<div style="text-align: center;">
+
   [Link](http://abulafia.mt.ic.ac.uk/shannon/ptable.php)
-</div>
+
