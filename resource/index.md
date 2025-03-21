@@ -22,7 +22,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
   {% include list.html
   data="resources"
-  component="card" %}
+  component="post" %}
 
 
 {% endcapture %}
@@ -30,6 +30,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include grid.html
   content=content
-  style="square"
 %}
 
