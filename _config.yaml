@@ -35,6 +35,14 @@ defaults:
     values:
       layout: post
 
+
+  # markdown files in /_resources
+  - scope:
+      type: "resources"
+    values:
+      layout: resource
+
+      
 collections:
   # generate page for each member
   members:
