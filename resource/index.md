@@ -12,6 +12,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 
 {% include search-box.html %}
+{% include search-info.html %}
 
 
 
