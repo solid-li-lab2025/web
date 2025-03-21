@@ -42,6 +42,10 @@ collections:
   # generate page for each post
   posts:
     output: true
+  # generate page for each resource
+  resources:
+    output: true
+
 
 # jekyll plugins
 plugins:
