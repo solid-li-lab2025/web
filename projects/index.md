@@ -22,11 +22,11 @@ nav:
 ## Funding Agencies
 
 {% capture content %}
-  ![](/images/photo.png)
+  ![](/images/photo.jpg)
 
-  ![](/images/photo.png)
+  ![](/images/photo.jpg)
 
-  ![](/images/photo.png)
+  ![](/images/photo.jpg)
 {% endcapture %}
 
 {%
