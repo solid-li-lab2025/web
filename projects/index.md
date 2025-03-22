@@ -21,15 +21,18 @@ nav:
 
 ## Funding Agencies
 {% capture content %}
-  {% include figure.html image="images/latech.png" %}
+  {% include figure.html 
+  image="images/latech.png" 
+  caption="LA Tech"
+  link="https://www.latech.edu/" %}
 
-  {% include figure.html image="images/latech.png" %}
+  {% include figure.html image="images/photo.jpg" %}
 
-  {% include figure.html image="images/latech.png" %}
+  {% include figure.html image="images/photo.jpg" %}
 
-  {% include figure.html image="images/latech.png" %}
+  {% include figure.html image="images/photo.jpg" %}
 
-  {% include figure.html image="images/latech.png" %}
+  {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
 
