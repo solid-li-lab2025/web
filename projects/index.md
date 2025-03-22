@@ -32,5 +32,4 @@ nav:
 {%
   include grid.html
   content=content
-  style="square"
 %}
