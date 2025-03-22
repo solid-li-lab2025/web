@@ -20,19 +20,13 @@ nav:
 
 
 ## Funding Agencies
-{% capture content %}
-  {% include figure.html ... %}
-  {% include figure.html ... %}
-  {% include figure.html ... %}
-  {% include figure.html ... %}
-  {% include figure.html ... %}
-{% endcapture %}
-{% capture content %}
-  ![](/images/latech.png)
 
-  ![](/images/latech.png)
-
-  ![](/images/latech.png)
+{% capture content %}
+  {% include figure.html images/latech.png %}
+  {% include figure.html images/latech.png %}
+  {% include figure.html images/latech.png %}
+  {% include figure.html images/latech.png %}
+  {% include figure.html images/latech.png %}
 {% endcapture %}
 
 {%
