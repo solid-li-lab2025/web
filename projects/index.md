@@ -4,7 +4,7 @@ nav:
   order: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-university" %}Research Projects
 
 
 
