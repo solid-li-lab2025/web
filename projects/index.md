@@ -6,14 +6,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
 
 ## Featured
 
@@ -21,6 +14,23 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## More
+## Past
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+
+
+## Funding Agencies
+
+{% capture content %}
+  ![](/images/photo.png)
+
+  ![](/images/photo.png)
+
+  ![](/images/photo.png)
+{% endcapture %}
+
+{%
+  include grid.html
+  content=content
+  style="square"
+%}
