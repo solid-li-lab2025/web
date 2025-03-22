@@ -25,8 +25,8 @@ nav:
 
 
 {% capture content %}
-  {% include figure.html imgage="images/latech.png" %}
-  {% include figure.html imgage="images/latech.png" %}
+  {% include figure.html imgage="/images/latech.png" %}
+  {% include figure.html imgage="/images/photo.jpg" %}
   {% include figure.html imgage="images/latech.png" %}
   {% include figure.html imgage="images/latech.png" %}
   {% include figure.html imgage="images/latech.png" %}
