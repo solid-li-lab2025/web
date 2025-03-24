@@ -1,6 +1,6 @@
 ---
 title: Google Iluminate Ai
-image: https://en.wikipedia.org/wiki/Google_AI#/media/File:Google_AI.png
+image: https://upload.wikimedia.org/wikipedia/commons/0/01/Google_AI.png
 tags: science
 ---
 
