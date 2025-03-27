@@ -46,7 +46,7 @@ Currently, we don't have postdoc openings.
 
 {%
   include figure.html
-  image="images/graphene.jpg"
+  image="images/graphene.png"
   caption="hexagonal lattice"
 %}
 
