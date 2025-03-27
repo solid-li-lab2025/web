@@ -32,11 +32,11 @@ Currently, we don't have postdoc openings.
 
 {% include section.html %}
 
-{% capture col1 %}
+{% capture %}
 
 {%
   include figure.html
-  image="images/dog_cartoon.png"
+  image="images/dog_cartoon.jpg"
   caption="Join us!"
 %}
 
