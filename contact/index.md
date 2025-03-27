@@ -61,11 +61,11 @@ We apply chemical intuition.
 {% endcapture %}
 
 {% capture col2 %}
-Physics enables the fundamental understanding.
+Physics is the foundation.
 {% endcapture %}
 
 {% capture col3 %}
-We perform interdisciplinary materials research.
+We perform materials research.
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
