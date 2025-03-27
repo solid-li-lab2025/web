@@ -1,6 +1,6 @@
 ---
 name: Tianyu Li
-image: images/photo.jpg
+image: images/self_cartoon.jpg
 role: principal-investigator
 affiliation: Louisiana Tech University
 aliases:
