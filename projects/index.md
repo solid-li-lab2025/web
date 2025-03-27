@@ -25,27 +25,40 @@ nav:
 
 
 ## Funding Agencies
-{% capture content %}
-  {% include figure.html 
+{% include section.html dark=true %}
+
+{% capture col1 %}
+{% include figure.html 
   image="images/LouisianaTechSeal.png" 
   caption="LA Tech"
   link="https://www.latech.edu/" %}
-
-  {% include figure.html image="images/photo.jpg" %}
-
-  {% include figure.html image="images/photo.jpg" %}
-
-  {% include figure.html image="images/photo.jpg" %}
-
-  {% include figure.html image="images/photo.jpg" %}
-
 {% endcapture %}
 
-{%
-  include grid.html
-  content=content
-  style="square"
-%}
+{% capture col2 %}
+{% include figure.html image="images/photo.jpg" %}
+{% endcapture %}
+
+{% capture col3 %}
+{% include figure.html image="images/photo.jpg" %}
+{% endcapture %}
+
+{% capture col4 %}
+{% include figure.html image="images/photo.jpg" %}
+{% endcapture %}
+
+{% capture col5 %}
+{% include figure.html image="images/photo.jpg" %}
+{% endcapture %}
+
+{% capture col6 %}
+{% include figure.html image="images/photo.jpg" %}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5 col6=col6 %}
+
+
+
+
 
 
 
