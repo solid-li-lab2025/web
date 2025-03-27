@@ -36,7 +36,7 @@ Currently, we don't have postdoc openings.
 {%
   include figure.html
   image="images/dog_cartoon.jpg"
-  width="50%"
+  width="40%"
   caption="Join us!"
 %}
 
