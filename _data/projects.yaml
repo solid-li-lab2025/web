@@ -1,11 +1,11 @@
 - title: Structure dynamics of electrode materials in the battery.
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/research/research_1.png
   link: https://github.com/
   description: To be updated 
   tags:
-    - resource
+    - Science
 
 - title: To be added
   subtitle: a subtitle
@@ -14,7 +14,7 @@
   link: https://github.com/
   description: To be updated
   tags:
-    - resource
+    - Science
 
 
 
@@ -46,4 +46,5 @@
   description: To be added
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - Education
+    - Outreach
