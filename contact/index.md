@@ -30,8 +30,8 @@ Currently, we don't have postdoc openings.
   link="https://www.google.com/maps"
 %}
 
-{% include section.html %}
 
+{% include section.html %}
 
 {%
   include figure.html
