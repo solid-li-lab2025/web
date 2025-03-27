@@ -14,6 +14,11 @@ nav:
 
 {% include section.html %}
 
+
+## Techniques
+
+{% include list.html component="card" data="projects" filter="group == 'technique'" %}
+
 ## Past
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
