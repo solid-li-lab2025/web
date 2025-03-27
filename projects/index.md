@@ -25,7 +25,6 @@ nav:
 
 
 ## Funding Agencies
-{% include section.html dark=true %}
 
 {% capture col1 %}
 {% include figure.html 
