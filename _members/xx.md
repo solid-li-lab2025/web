@@ -8,4 +8,4 @@ links:
   twitter: sarahjohnson
 ---
 
-I am a happy scientist. sometimes I am Lazy /o\
+I am a happy scientist. Sometimes I am Lazy /o\
