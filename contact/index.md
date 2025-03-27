@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We always welcome motivated undergraduate and graduate students with different backgrounds to join our team. Feel free to shoot Dr. Li an email if you want to work with us :)
+We always welcome motivated high school, undergraduate, and graduate students with different backgrounds to join our team. Feel free to shoot Dr. Li an email if you want to work with us :)
 
 Currently, we don't have postdoc openings. 
 
@@ -57,21 +57,15 @@ Currently, we don't have postdoc openings.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+We apply chemical intuition.
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Physics enables the fundamental understanding.
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+We perform interdisciplinary materials research.
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
