@@ -32,7 +32,6 @@ Currently, we don't have postdoc openings.
 
 {% include section.html %}
 
-{% capture %}
 
 {%
   include figure.html
@@ -40,7 +39,6 @@ Currently, we don't have postdoc openings.
   caption="Join us!"
 %}
 
-{% endcapture %}
 
 
 
