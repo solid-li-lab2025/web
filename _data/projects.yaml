@@ -12,27 +12,27 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: To be updated
+  description: to be added
   tags:
     - Science
 
 
 
 - title: X-ray/Neutron Scattering
-  subtitle: a subtitle
+  subtitle: Revealing crystal structure
   group: technique
   image: images/research/xrd.png
-  link: https://github.com/
-  description: To be updated
+  link: https://en.wikipedia.org/wiki/Diffraction
+  description: We utilize scattering to understand the statistical atomic arrangement of materials. We apply the diffraction methods to understand long-range crystal structure and pair distribution function(PDF) to understand the local short-range structure of the materials. We are employing in-situ and operando measurements to track the structural evolution behaviors of the materials under different conditions. Our group travels to various national laboratories to utilize the Synchrotron X-ray and  Neutron source.    
   tags:
     - Instrument
 
 - title: Solid-state NMR
-  subtitle: a subtitle
+  subtitle: A local environment probe
   group: technique
   image: images/research/nmr.png
-  link: https://github.com/
-  description: To be updated
+  link: https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance_spectroscopy
+  description: Nuclear Magnetic resonance(NMR) is sensitive to the local chemical environment of specific nuclei. The local chemical environments are impacted by the bonding, surrounding atoms, and magnetic spins. NMR is also capable of detecting dynamics.
   tags:
     - Instrument
 
