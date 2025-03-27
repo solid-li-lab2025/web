@@ -36,23 +36,13 @@ Currently, we don't have postdoc openings.
 
 {%
   include figure.html
-  image="images/cubic_packing.png"
-  caption="cubic lattice"
+  image="images/dog_cartoon.png"
+  caption="Join us!"
 %}
 
 {% endcapture %}
 
-{% capture col2 %}
 
-{%
-  include figure.html
-  image="images/graphene.png"
-  caption="hexagonal lattice"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
