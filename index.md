@@ -37,7 +37,7 @@ Our research involves developing new approaches to synthesize functional solid-s
 
 {% capture text %}
 
-Joiin us : )
+Join us : )
 
 {%
   include button.html
