@@ -22,7 +22,7 @@ nav:
 ## Funding Agencies
 {% capture content %}
   {% include figure.html 
-  image="images/latech.png" 
+  image="images/LouisianaTechSeal.png" 
   caption="LA Tech"
   link="https://www.latech.edu/" %}
 
