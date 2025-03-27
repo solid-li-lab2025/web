@@ -36,8 +36,8 @@ Currently, we don't have postdoc openings.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/cubic_packing.png"
+  caption="cubic lattice"
 %}
 
 {% endcapture %}
@@ -46,8 +46,8 @@ Currently, we don't have postdoc openings.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/graphene.jpg"
+  caption="hexagonal lattice"
 %}
 
 {% endcapture %}
