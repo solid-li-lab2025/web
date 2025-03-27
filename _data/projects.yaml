@@ -18,23 +18,26 @@
 
 
 
-- title: To be added
+- title: X-ray/Neutron Scattering
   subtitle: a subtitle
+  group: technique
   image: images/photo.jpg
   link: https://github.com/
   description: To be updated
   repo: greenelab/lab-website-template
   tags:
-    - Battery
+    - Instrument
 
-- title: To be added
+- title: Solid-state NMR
   subtitle: a subtitle
+  group: technique
   image: images/photo.jpg
   link: https://github.com/
   description: To be updated
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - Instrument
+
 
 - title: To be added
   subtitle: a subtitle
