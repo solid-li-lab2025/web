@@ -6,7 +6,7 @@
   <img src="images/seal.png" >
 </div>
 
-Our Lab performs interdisciplinary research to synthesize and understand the  structural dynamics of novel solid-state materials. Currently we are interested in energy storage materials, quantum materials, and heterogenous catalysts. We welcome students with backgrounds in chemistry, physics, and (chemical, materials, and mechanical) engineering to join us :)
+Our Lab performs interdisciplinary research to synthesize and understand the  structural dynamics of novel solid-state materials. Currently we are interested in energy storage materials, quantum materials, and heterogeneous catalysts. We welcome students with backgrounds in chemistry, physics, and (chemical, materials, and mechanical) engineering to join us :)
 
 {% include section.html %}
 
@@ -14,7 +14,7 @@ Our Lab performs interdisciplinary research to synthesize and understand the  st
 
 {% capture text %}
 
-To be updated!
+Our research involves developing new approaches to synthesize functional solid-state materials, characterization of their atomic structural behaviors, and understanding the correlation between structure and properties of the solid-state materials. We focus on solid-state NMR and X-ray/Neutron scattering characterization techniques.  Our current interests lie in energy storage materials, quantum materials, and heterogeneous catalysts. 
 
 {%
   include button.html
@@ -37,7 +37,7 @@ To be updated!
 
 {% capture text %}
 
-Our research involves developing new approaches to synthesize functional solid-state materials, characterization of their atomic structural behaviors, and understanding the correlation between structure and properties of the solid-state materials. We focus on solid-state NMR and X-ray/Neutron scattering characterization techniques.  Our current interests lie in energy storage materials, quantum materials, and heterogeneous catalysts. 
+Joiin us : )
 
 {%
   include button.html
