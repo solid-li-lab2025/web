@@ -1,6 +1,6 @@
 ---
 title: Bilbao Crystallographic Server
-image: https://upload.wikimedia.org/wikipedia/commons/9/9f/Atomic_%26_ionic_radii.svg
+image: images/tool/bilbao.png
 tags: Tools
 ---
 
