@@ -1,1 +1,1 @@
-Sitemap: http://latech-materials-lab.com/sitemap.xml
+Sitemap: https://latech-materials-lab.com/sitemap.xml
