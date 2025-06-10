@@ -1,1 +1,1 @@
-Sitemap: https://solid-li-lab2025.github.io/web/sitemap.xml
+Sitemap: http://latech-materials-lab.com/sitemap.xml
