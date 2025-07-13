@@ -14,8 +14,8 @@ Currently, we don't have postdoc openings.
 {%
   include button.html
   type="email"
-  text="tianyuli@ucsb.edu"
-  link="tianyuli@ucsb.edu"
+  text="tianyu@latech.edu"
+  link="tianyu@latech.edu"
 %}
 {%
   include button.html
