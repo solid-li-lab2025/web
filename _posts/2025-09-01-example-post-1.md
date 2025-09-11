@@ -6,4 +6,4 @@ tags:
   
 ---
 
-My journely as an assistant professor just get started at LA Tech. Classes, research are to come!
+My journely as an assistant professor just gets started at LA Tech. Classes, research are to come!
