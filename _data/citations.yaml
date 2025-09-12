@@ -25,7 +25,7 @@
   orcid: 0000-0003-0142-7252
   plugin: sources.py
   file: sources.yaml
-  image: https://pubs.acs.org/cms/10.1021/jacs.5c06578/asset/images/medium/ja5c06578_0012.jpeg
+  image: https://pubs.acs.org/cms/10.1021/jacs.5c06578/asset/images/large/ja5c06578_0012.jpeg
 - id: doi:10.1021/acsaem.5c01005
   title: "Rapid Microwave Preparation of AlNb<sub>11</sub>O<sub>29</sub> and Ti<sub>2</sub>Nb<sub>10</sub>O<sub>29</sub>\
     \ Wadsley\u2013Roth Lithium\u2013Ion Anode Compounds from Parent Oxides"
@@ -41,7 +41,7 @@
   orcid: 0000-0003-0142-7252
   plugin: sources.py
   file: sources.yaml
-  image: https://pubs.acs.org/cms/10.1021/acsaem.5c01005/asset/images/medium/ae5c01005_0007.jpeg
+  image: https://pubs.acs.org/cms/10.1021/acsaem.5c01005/asset/images/large/ae5c01005_0007.jpeg
 - id: doi:10.1002/aenm.202500492
   title: "Alternative Solid\u2010State Synthesis Route for Highly Fluorinated Disordered\
     \ Rock\u2010Salt Cathode Materials for High\u2010Energy Lithium\u2010Ion Batteries"
@@ -120,7 +120,7 @@
   orcid: 0000-0003-0142-7252
   plugin: sources.py
   file: sources.yaml
-  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.4c02980/asset/images/medium/cm4c02980_0007.jpeg
+  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.4c02980/asset/images/large/cm4c02980_0007.jpeg
 - id: doi:10.1039/D4MA01287A
   title: Exploring a new synthesis route to lithium-excess disordered rock salt (DRX)
     cathode materials
@@ -263,7 +263,7 @@
   orcid: 0000-0003-0142-7252
   plugin: sources.py
   file: sources.yaml
-  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.4c00556/asset/images/medium/cm4c00556_0012.jpeg
+  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.4c00556/asset/images/large/cm4c00556_0012.jpeg
 - id: doi:10.1002/aenm.202400722
   title: "Enhanced Electrochemical Performance of Disordered Rocksalt Cathodes in\
     \ a Localized High\u2010Concentration Electrolyte"
