@@ -15,15 +15,8 @@
 
 - id: doi:10.1021/acs.chemmater.4c02980
   image: https://pubs.acs.org/cms/10.1021/acs.chemmater.4c02980/asset/images/medium/cm4c02980_0007.gif
-  tags:
-    - Cathode
-    - Li-ion Battery 
 
-- id: doi:10.1039/D5EE01564B
-  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D5EE01564B&imageInfo.ImageIdentifier.Year=2025
-  tags:
-    - Cathode
-    - Li-ion Battery
-
+  - id: doi:10.1021/jacs.5c06578
+  image: https://pubs.acs.org/cms/10.1021/jacs.5c06578/asset/images/medium/ja5c06578_0012.gif
 
   
