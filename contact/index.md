@@ -27,7 +27,7 @@ Currently, we don't have postdoc openings.
   include button.html
   type="address"
   tooltip="233 Carson-Taylor Hall"
-  link="https://www.google.com/maps"
+  link="www.google.com/maps"
 %}
 
 
