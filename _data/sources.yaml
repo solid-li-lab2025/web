@@ -16,7 +16,16 @@
 - id: doi:10.1021/acs.chemmater.4c02980
   image: https://pubs.acs.org/cms/10.1021/acs.chemmater.4c02980/asset/images/medium/cm4c02980_0007.jpeg
 
-  - id: doi:10.1021/jacs.5c06578
+- id: doi:10.1021/jacs.5c06578
   image: https://pubs.acs.org/cms/10.1021/jacs.5c06578/asset/images/medium/ja5c06578_0012.jpeg
+
+- id: doi:10.1021/acsaem.5c01005
+  image: https://pubs.acs.org/cms/10.1021/acsaem.5c01005/asset/images/medium/ae5c01005_0007.jpeg
+
+
+- id: doi:10.1021/acs.chemmater.4c00556
+  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.4c00556/asset/images/medium/cm4c00556_0012.jpeg
+
+
 
   
