@@ -23,8 +23,9 @@
   date: '2025-09-02'
   link: https://doi.org/g93dx7
   orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/jacs.5c06578/asset/images/large/ja5c06578_0012.jpeg
 - id: doi:10.1021/acsaem.5c01005
   title: "Rapid Microwave Preparation of AlNb<sub>11</sub>O<sub>29</sub> and Ti<sub>2</sub>Nb<sub>10</sub>O<sub>29</sub>\
     \ Wadsley\u2013Roth Lithium\u2013Ion Anode Compounds from Parent Oxides"
@@ -38,8 +39,9 @@
   date: '2025-05-20'
   link: https://doi.org/g9spzp
   orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acsaem.5c01005/asset/images/large/ae5c01005_0007.jpeg
 - id: doi:10.1002/aenm.202500492
   title: "Alternative Solid\u2010State Synthesis Route for Highly Fluorinated Disordered\
     \ Rock\u2010Salt Cathode Materials for High\u2010Energy Lithium\u2010Ion Batteries"
@@ -116,8 +118,9 @@
   date: '2025-02-06'
   link: https://doi.org/g88jv4
   orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.4c02980/asset/images/large/cm4c02980_0007.jpeg
 - id: doi:10.1039/D4MA01287A
   title: Exploring a new synthesis route to lithium-excess disordered rock salt (DRX)
     cathode materials
@@ -258,8 +261,9 @@
   date: '2024-05-10'
   link: https://doi.org/g88jv9
   orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acs.chemmater.4c00556/asset/images/large/cm4c00556_0012.jpeg
 - id: doi:10.1002/aenm.202400722
   title: "Enhanced Electrochemical Performance of Disordered Rocksalt Cathodes in\
     \ a Localized High\u2010Concentration Electrolyte"
@@ -399,8 +403,9 @@
   date: '2022-10-14'
   link: https://doi.org/g88jwk
   orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.2c04853/asset/images/large/jp2c04853_0011.jpeg
 - id: doi:10.26434/chemrxiv-2022-trrg5-v2
   title: Particle Size and Pore Size Selection on Ordered Mesoporous Silica
   authors:
@@ -489,8 +494,9 @@
   date: '2021-11-03'
   link: https://doi.org/g88jwr
   orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.acs.org/cms/10.1021/acsami.1c16668/asset/images/large/am1c16668_0014.jpeg
 - id: doi:10.1039/C8CC09573F
   title: "Structural studies of the perovskite series La<sub>1\u2212x</sub>Sr<sub>x</sub>CoO<sub>3\u2212\
     \u03B4</sub> during chemical looping with methane"
@@ -520,5 +526,6 @@
   date: '2017-11-01'
   link: https://doi.org/gcmpzr
   orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211285517301404-fx1_lrg.jpg
