@@ -26,7 +26,7 @@ Currently, we don't have postdoc openings.
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  tooltip="233 Carson-Taylor Hall"
   link="[https://www.google.com/maps/place/Carson-Taylor+Hall,+Ruston,+LA+71270/@32.525385,-92.6485684,17z/data=!3m1!4b1!4m6!3m5!1s0x8631c56e8c69e255:0x2a5c592019ae8603!8m2!3d32.5253805!4d-92.6459935!16s%2Fg%2F1tppsbbs?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D]"
 %}
 
