@@ -9,7 +9,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-file" %}Publications
 ## Highlighted
 
-{% include citation.html lookup="Impact of the d 0 transition metal on local structural transformations in disordered rock salt cathodes" style="rich" %}
+{% include citation.html lookup="local structural transformations in disordered rock salt cathodes" style="rich" %}
 {% include citation.html lookup="Structural Evolution in Disordered Rock Salt Cathodes" style="rich" %}
 
 {% include section.html %}
