@@ -9,7 +9,9 @@
 
 - id: doi:10.1021/jacs.5c06578
   image: https://pubs.acs.org/cms/10.1021/jacs.5c06578/asset/images/large/ja5c06578_0012.jpeg
-  
+
+- id: doi:10.1021/jacs.5c13085
+  image: https://pubs.acs.org/cms/10.1021/jacs.5c13085/asset/images/large/ja5c13085_0010.jpeg
   
 - id: doi:10.1039/D5SC06959A
   description: Non electrochemically active elements can have a significnat impact on the stucture evolution of DRX cathode during cycling
