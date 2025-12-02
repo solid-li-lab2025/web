@@ -68,7 +68,7 @@ Layered structures (LuFeO3)nLuFe2O4 exhibit a common structural transformation u
 {%
   include button.html
   link="publication"
-  image:https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/5d9a8427-f7ba-451d-a1c4-a9456d1f8c07/ceur70164-blkfxd-0001-m.jpg
+  image="images/toc/ceur2025.jpg"
   text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
