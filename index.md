@@ -63,11 +63,12 @@ Join us : )
 
 {% capture text %}
 
-Coming soon...
+Layered structures (LuFeO3)nLuFe2O4 exhibit a common structural transformation upon oxygen uptake. Although the LuFeO3 units do not directly participate in oxygen insertion, these inactive layers nevertheless influence the temperature at which oxygen absorption occurs.
 
 {%
   include button.html
   link="publication"
+  image="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/5d9a8427-f7ba-451d-a1c4-a9456d1f8c07/ceur70164-blkfxd-0001-m.jpg"
   text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
