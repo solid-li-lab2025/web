@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/ceur.202500349
+  title: "A Crystallographic Shear Driven by Oxygen Insertion in (LuFeO\n        \
+    \            <sub>3</sub>\n                    )\n                    <sub>\n\
+    \                      <i>n</i>\n                    </sub>\n                \
+    \    LuFe\n                    <sub>2</sub>\n                    O\n         \
+    \           <sub>4</sub>"
+  authors:
+  - Tianyu Li
+  - Stephanie J. Hong
+  - "Sz\u2010Chian Liou"
+  - Emily Foley
+  - "Hadas Elazar\u2010Mittelman"
+  - Xiuquan Zhou
+  - H. Cein Mandujano
+  - Efrain E. Rodriguez
+  publisher: ChemistryEurope
+  date: '2025-12-01'
+  link: https://doi.org/hbdbvr
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/jacs.5c13085
   title: "Evolution of Altermagnetism to Spin Density Waves in Co\n              \
     \      <sub>\n                      <i>x</i>\n                    </sub>\n   \
