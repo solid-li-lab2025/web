@@ -1,27 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1002/ceur.202500349
-  title: "A Crystallographic Shear Driven by Oxygen Insertion in (LuFeO\n        \
-    \            <sub>3</sub>\n                    )\n                    <sub>\n\
-    \                      <i>n</i>\n                    </sub>\n                \
-    \    LuFe\n                    <sub>2</sub>\n                    O\n         \
-    \           <sub>4</sub>"
+- id: doi:10.1021/acs.chemmater.5c02824
+  title: Direct Microwave Pyrolysis of Cellulose to Hard Carbon Anodes for Sodium-Ion
+    Batteries
+  authors:
+  - Kathryn E. Brockmeyer
+  - Alexander J. Bologna
+  - Matthew A. Wright
+  - Josephine Wong
+  - Cesar Rodriguez
+  - Tianyu Li
+  - Rachel A. Segalman
+  - Ram Seshadri
+  publisher: Chemistry of Materials
+  date: '2026-01-17'
+  link: https://doi.org/hbnjm5
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D5SC06959A
+  title: "Impact of the d\n                    <sup>0</sup>\n                    transition\
+    \ metal on local structural transformations in disordered rock salt cathodes"
   authors:
   - Tianyu Li
-  - Stephanie J. Hong
-  - "Sz\u2010Chian Liou"
-  - Emily Foley
-  - "Hadas Elazar\u2010Mittelman"
-  - Xiuquan Zhou
-  - H. Cein Mandujano
-  - Efrain E. Rodriguez
-  publisher: ChemistryEurope
-  date: '2025-12-01'
-  link: https://doi.org/hbdbvr
+  - Otavio Marques
+  - Tullio S. Geraci
+  - Erick A. Lawrence
+  - Arava Zohar
+  - Jue Liu
+  - Evans Avoka
+  - Alexandra Navrotsky
+  - Johanna Nelson Weker
+  - "Rapha\xEBle J. Cl\xE9ment"
+  publisher: Chemical Science
+  date: '2025-01-01'
+  link: https://doi.org/hbcr5j
   orcid: 0000-0003-0142-7252
   plugin: sources.py
   file: sources.yaml
-  image: images/toc/ceur2025.png
+  image: images/toc/chems_nov2025.png
 - id: doi:10.1021/jacs.5c13085
   title: "Evolution of Altermagnetism to Spin Density Waves in Co\n              \
     \      <sub>\n                      <i>x</i>\n                    </sub>\n   \
@@ -41,6 +58,27 @@
   plugin: sources.py
   file: sources.yaml
   image: https://pubs.acs.org/cms/10.1021/jacs.5c13085/asset/images/large/ja5c13085_0010.jpeg
+- id: doi:10.1002/ceur.202500349
+  title: "A Crystallographic Shear Driven by Oxygen Insertion in (LuFeO\n        \
+    \            <sub>3</sub>\n                    )\n                    <sub>\n\
+    \                      <i>n</i>\n                    </sub>\n                \
+    \    LuFe\n                    <sub>2</sub>\n                    O\n         \
+    \           <sub>4</sub>"
+  authors:
+  - Tianyu Li
+  - Stephanie J. Hong
+  - "Sz\u2010Chian Liou"
+  - Emily Foley
+  - "Hadas Elazar\u2010Mittelman"
+  - Xiuquan Zhou
+  - H. Cein Mandujano
+  - Efrain E. Rodriguez
+  publisher: ChemistryEurope
+  date: '2025-12-01'
+  link: https://doi.org/hbdbvr
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/jacs.5c06578
   title: Metallicity, Atomic Disorder, and Li-Ion Storage in Fast-Charging Anodes
   authors:
@@ -182,41 +220,20 @@
   title: High energy density and micrometer-sized d<sup>0</sup>-free disordered rocksalt
     cathodes
   authors:
-  - Vincent Wu
-  - Erick Lawrence
+  - Vincent C. Wu
+  - Erick A. Lawrence
   - Tianyu Li
-  - Euan Bassey
+  - Euan N. Bassey
   - Chia-Yu Chang
   - Bing Joe Hwang
   - Pierre-Etienne Cabelguen
-  - "Rapha\xEBle Cl\xE9ment"
+  - "Rapha\xEBle J. Cl\xE9ment"
   publisher: Energy &amp; Environmental Science
   date: '2025-01-01'
   link: https://doi.org/g93dx8
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1039/D5SC06959A
-  title: "Impact of the d\n                    <sup>0</sup>\n                    transition\
-    \ metal on local structural transformations in disordered rock salt cathodes"
-  authors:
-  - Tianyu Li
-  - Otavio Marques
-  - Tullio S. Geraci
-  - Erick A. Lawrence
-  - Arava Zohar
-  - Jue Liu
-  - Evans Avoka
-  - Alexandra Navrotsky
-  - Johanna Nelson Weker
-  - "Rapha\xEBle J. Cl\xE9ment"
-  publisher: Chemical Science
-  date: '2025-01-01'
-  link: https://doi.org/hbcr5j
-  orcid: 0000-0003-0142-7252
-  plugin: sources.py
-  file: sources.yaml
-  image: images/toc/chems_nov2025.png
 - id: doi:10.1039/D5DT00798D
   title: "Reversible structural and colorimetric transitions in LuMnGaO\n        \
     \            <sub>4</sub>\n                    upon oxygen uptake and release"
@@ -461,6 +478,26 @@
   publisher: The Journal of Physical Chemistry C
   date: '2022-10-14'
   link: https://doi.org/g88jwk
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv-2022-trrg5
+  title: Particle Size and Pore Size Selection on Ordered Mesoporous Silica
+  authors:
+  - Tianyu Li
+  publisher: American Chemical Society (ACS)
+  date: '2022-09-19'
+  link: https://doi.org/hbnjm6
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv-2022-trrg5-v2
+  title: Particle Size and Pore Size Selection on Ordered Mesoporous Silica
+  authors:
+  - Tianyu Li
+  publisher: American Chemical Society (ACS)
+  date: '2022-09-20'
+  link: https://doi.org/g88jwm
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
