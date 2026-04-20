@@ -1,5 +1,54 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acs.chemmater.5c03072
+  title: "Structural Propensities in Cs\n                    <sub>2</sub>\n      \
+    \              MBiX\n                    <sub>6</sub>\n                    (M\
+    \ \u2009= Na, Ag; X \u2009= Cl, Br) Bismuth Halide Double Perovskites"
+  authors:
+  - Haowen Tian
+  - Tianyu Li
+  - Anya S. Mulligan
+  - Jack Philip Galileo Tregidga
+  - Matthew A. Wright
+  - Arava Zohar
+  - Aditya Chezhiyan
+  - Molleigh B. Preefer
+  - Kevin H. Stone
+  - Jerry Hu
+  - Guang Wu
+  - "Alicia Mar\xEDa Manj\xF3n-Sanz"
+  - Saul H. Lapidus
+  - John W. Harter
+  - Anthony K. Cheetham
+  - Ram Seshadri
+  publisher: Chemistry of Materials
+  date: '2026-03-24'
+  link: https://doi.org/hbxr6h
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ceur.202500349
+  title: "A Crystallographic Shear Driven by Oxygen Insertion in (LuFeO\n        \
+    \            <sub>3</sub>\n                    )\n                    <sub>\n\
+    \                      <i>n</i>\n                    </sub>\n                \
+    \    LuFe\n                    <sub>2</sub>\n                    O\n         \
+    \           <sub>4</sub>"
+  authors:
+  - Tianyu Li
+  - Stephanie J. Hong
+  - "Sz\u2010Chian Liou"
+  - Emily Foley
+  - "Hadas Elazar\u2010Mittelman"
+  - Xiuquan Zhou
+  - H. Cein Mandujano
+  - Efrain E. Rodriguez
+  publisher: ChemistryEurope
+  date: '2025-12-01'
+  link: https://doi.org/hbdbvr
+  orcid: 0000-0003-0142-7252
+  plugin: sources.py
+  file: sources.yaml
+  image: images/toc/ceur2025.png
 - id: doi:10.1021/acs.chemmater.5c02824
   title: Direct Microwave Pyrolysis of Cellulose to Hard Carbon Anodes for Sodium-Ion
     Batteries
@@ -33,7 +82,7 @@
   - Johanna Nelson Weker
   - "Rapha\xEBle J. Cl\xE9ment"
   publisher: Chemical Science
-  date: '2025-01-01'
+  date: '2026-01-01'
   link: https://doi.org/hbcr5j
   orcid: 0000-0003-0142-7252
   plugin: sources.py
@@ -58,28 +107,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://pubs.acs.org/cms/10.1021/jacs.5c13085/asset/images/large/ja5c13085_0010.jpeg
-- id: doi:10.1002/ceur.202500349
-  title: "A Crystallographic Shear Driven by Oxygen Insertion in (LuFeO\n        \
-    \            <sub>3</sub>\n                    )\n                    <sub>\n\
-    \                      <i>n</i>\n                    </sub>\n                \
-    \    LuFe\n                    <sub>2</sub>\n                    O\n         \
-    \           <sub>4</sub>"
-  authors:
-  - Tianyu Li
-  - Stephanie J. Hong
-  - "Sz\u2010Chian Liou"
-  - Emily Foley
-  - "Hadas Elazar\u2010Mittelman"
-  - Xiuquan Zhou
-  - H. Cein Mandujano
-  - Efrain E. Rodriguez
-  publisher: ChemistryEurope
-  date: '2025-12-01'
-  link: https://doi.org/hbdbvr
-  orcid: 0000-0003-0142-7252
-  plugin: sources.py
-  file: sources.yaml
-  image: images/toc/ceur2025.png
 - id: doi:10.1021/jacs.5c06578
   title: Metallicity, Atomic Disorder, and Li-Ion Storage in Fast-Charging Anodes
   authors:
@@ -118,6 +145,24 @@
   publisher: ACS Applied Energy Materials
   date: '2025-05-20'
   link: https://doi.org/g9spzp
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.chemmater.4c02980
+  title: "Fast Charging from Low Li-Ion Migration Barriers in Wadsley\u2013Roth NaNb<sub>7</sub>O<sub>18</sub>\
+    \ Anodes"
+  authors:
+  - Arava Zohar
+  - Tianyu Li
+  - Yucheng Zhou
+  - Kira E. Wyckoff
+  - Alexander Justice Bologna
+  - Ashlea Patterson
+  - Laurent Pilon
+  - Ram Seshadri
+  publisher: Chemistry of Materials
+  date: '2025-02-06'
+  link: https://doi.org/g88jv4
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
@@ -181,21 +226,25 @@
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1021/acs.chemmater.4c02980
-  title: "Fast Charging from Low Li-Ion Migration Barriers in Wadsley\u2013Roth NaNb<sub>7</sub>O<sub>18</sub>\
-    \ Anodes"
+- id: doi:10.26434/chemrxiv-2025-chtzv
+  title: Establishing the Compatibility of Anolytes and Catholytes in Dual Electrolyte
+    Solid-State Batteries
   authors:
-  - Arava Zohar
+  - Tyler Pennebaker
+  - Elias Sebti
+  - Abhishek Panchal
+  - Chen-Jui Huang
+  - Yulia Trenikhina
   - Tianyu Li
-  - Yucheng Zhou
-  - Kira E. Wyckoff
-  - Alexander Justice Bologna
-  - Ashlea Patterson
-  - Laurent Pilon
-  - Ram Seshadri
-  publisher: Chemistry of Materials
-  date: '2025-02-06'
-  link: https://doi.org/g88jv4
+  - Yan Li
+  - Yuheng Li
+  - Stephen Kelly
+  - Ying Shirley Meng
+  - Pieremanuele Canepa
+  - "Rapha\xEBle Cl\xE9ment"
+  publisher: American Chemical Society (ACS)
+  date: '2025-05-12'
+  link: https://doi.org/hbxr6j
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
@@ -232,6 +281,28 @@
   publisher: Energy &amp; Environmental Science
   date: '2025-01-01'
   link: https://doi.org/g93dx8
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv-2025-mvj7j
+  title: Key Parameters Controlling Energy Performance in Manganese Cathodes
+  authors:
+  - Juhyeon Ahn
+  - Matthew J. Crafton
+  - Krishna Prasad Koirala
+  - Tianyu Li
+  - "Rapha\xEBle J. Cl\xE9ment"
+  - Yanbao Fu
+  - Vincent Battaglia
+  - Dennis Nordlund
+  - Chongmin Wang
+  - Bryan D. McCloskey
+  - Stephen J. Harris
+  - Marca M. Doeff
+  - Guoying Chen
+  publisher: American Chemical Society (ACS)
+  date: '2025-02-23'
+  link: https://doi.org/hbxr6k
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
@@ -327,20 +398,6 @@
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1021/acs.chemmater.4c00556
-  title: Kinetic and Thermodynamic Pathways Via Ion Exchange Metathesis of Cobalt
-    Thiophosphate
-  authors:
-  - H. Cein Mandujano
-  - Tianyu Li
-  - Peter Y. Zavalij
-  - Efrain E. Rodriguez
-  publisher: Chemistry of Materials
-  date: '2024-05-10'
-  link: https://doi.org/g88jv9
-  orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1002/aenm.202400722
   title: "Enhanced Electrochemical Performance of Disordered Rocksalt Cathodes in\
     \ a Localized High\u2010Concentration Electrolyte"
@@ -391,6 +448,60 @@
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41467-024-47037-6
+  title: 'Author Correction: High voltage electrolytes for lithium-ion batteries with
+    micro-sized silicon anodes'
+  authors:
+  - Ai-Min Li
+  - Zeyi Wang
+  - Travis P. Pollard
+  - Weiran Zhang
+  - Sha Tan
+  - Tianyu Li
+  - Chamithri Jayawardana
+  - Sz-Chian Liou
+  - Jiancun Rao
+  - Brett L. Lucht
+  - Enyuan Hu
+  - Xiao-Qing Yang
+  - Oleg Borodin
+  - Chunsheng Wang
+  publisher: Nature Communications
+  date: '2024-03-26'
+  link: https://doi.org/hbxr6m
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2408.10421
+  title: Itinerant A-type Antiferromagnetic Order in Co$_{0.25}$TaSe$_2$
+  authors:
+  - H. Cein Mandujano
+  - Gicela Saucedo Salas
+  - Gicela Saucedo Salas
+  - Peter Y. Zavalij
+  - "Alicia Manj\xF3n-Sanz"
+  - Nicholas P. Butch
+  - Efrain E. Rodriguez
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/hbxr6n
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.chemmater.4c00556
+  title: Kinetic and Thermodynamic Pathways Via Ion Exchange Metathesis of Cobalt
+    Thiophosphate
+  authors:
+  - H. Cein Mandujano
+  - Tianyu Li
+  - Peter Y. Zavalij
+  - Efrain E. Rodriguez
+  publisher: Chemistry of Materials
+  date: '2024-05-10'
+  link: https://doi.org/g88jv9
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1039/D4CC02128B
   title: Multiscale characterizations of structural evolution in mesoporous CeO<sub>2</sub>
   authors:
@@ -399,6 +510,34 @@
   publisher: Chemical Communications
   date: '2024-01-01'
   link: https://doi.org/g88jwd
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv-2022-trrg5-v3
+  title: Particle Size and Pore Size Selection on Ordered Mesoporous Silica
+  authors:
+  - Tianyu Li
+  publisher: American Chemical Society (ACS)
+  date: '2023-02-20'
+  link: https://doi.org/g88jwg
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/d2qm01253g
+  title: High reactivity of mesoporous CeO<sub>2</sub> to dissociate chemical warfare
+    agent sarin
+  authors:
+  - Tianyu Li
+  - Matthew Leonard
+  - Roman Tsyshevsky
+  - Monica McEntee
+  - Christopher Karwacki
+  - Erin M. Durke
+  - Maija M. Kuklja
+  - Efrain E. Rodriguez
+  publisher: Materials Chemistry Frontiers
+  date: '2023-01-01'
+  link: https://doi.org/g88jwh
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
@@ -418,70 +557,6 @@
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.26434/chemrxiv-2022-trrg5-v3
-  title: Particle Size and Pore Size Selection on Ordered Mesoporous Silica
-  authors:
-  - Tianyu Li
-  publisher: American Chemical Society (ACS)
-  date: '2023-02-20'
-  link: https://doi.org/g88jwg
-  orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1039/D2QM01253G
-  title: High reactivity of mesoporous CeO<sub>2</sub> to dissociate chemical warfare
-    agent sarin
-  authors:
-  - Tianyu Li
-  - Matthew Leonard
-  - Roman Tsyshevsky
-  - Monica McEntee
-  - Christopher Karwacki
-  - Erin M. Durke
-  - Maija M. Kuklja
-  - Efrain E. Rodriguez
-  publisher: Materials Chemistry Frontiers
-  date: '2023-01-01'
-  link: https://doi.org/g88jwh
-  orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1021/acs.jpclett.2c03187
-  title: Experimental Study of the Adsorption and Decomposition of Sarin on Dry Copper(II)
-    Oxide
-  authors:
-  - Matthew B. Leonard
-  - Eric Bruni
-  - Morgan Hall
-  - Tianyu Li
-  - Efrain E. Rodriguez
-  - Erin M. Durke
-  publisher: The Journal of Physical Chemistry Letters
-  date: '2022-12-12'
-  link: https://doi.org/g88jwj
-  orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1021/acs.jpcc.2c04853
-  title: Aliovalent-Doping Effects on the Surface Activity of Mesoporous CeO<sub>2</sub>
-    toward Nerve Agent Simulant DMMP Decomposition
-  authors:
-  - Tianyu Li
-  - Lucas Algrim
-  - Monica McEntee
-  - Roman Tsyshevsky
-  - Matthew Leonard
-  - Erin M. Durke
-  - Christopher Karwacki
-  - Maija M. Kuklja
-  - Michael R. Zachariah
-  - Efrain E. Rodriguez
-  publisher: The Journal of Physical Chemistry C
-  date: '2022-10-14'
-  link: https://doi.org/g88jwk
-  orcid: 0000-0003-0142-7252
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.26434/chemrxiv-2022-trrg5
   title: Particle Size and Pore Size Selection on Ordered Mesoporous Silica
   authors:
@@ -497,7 +572,7 @@
   authors:
   - Tianyu Li
   publisher: American Chemical Society (ACS)
-  date: '2022-09-20'
+  date: '2022-09-19'
   link: https://doi.org/g88jwm
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
@@ -534,6 +609,26 @@
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1021/acs.jpcc.2c04853
+  title: Aliovalent-Doping Effects on the Surface Activity of Mesoporous CeO<sub>2</sub>
+    toward Nerve Agent Simulant DMMP Decomposition
+  authors:
+  - Tianyu Li
+  - Lucas Algrim
+  - Monica McEntee
+  - Roman Tsyshevsky
+  - Matthew Leonard
+  - Erin M. Durke
+  - Christopher Karwacki
+  - Maija M. Kuklja
+  - Michael R. Zachariah
+  - Efrain E. Rodriguez
+  publisher: The Journal of Physical Chemistry C
+  date: '2022-10-14'
+  link: https://doi.org/g88jwk
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1039/d1ma00822f
   title: "Crystal field-induced lattice expansion upon reversible oxygen uptake/release\
     \ in YbMn<sub><i>x</i></sub>Fe<sub>2\u2212<i>x</i></sub>O<sub>4</sub>"
@@ -551,7 +646,23 @@
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1039/D1CC05343D
+- id: doi:10.1021/acs.jpclett.2c03187
+  title: Experimental Study of the Adsorption and Decomposition of Sarin on Dry Copper(II)
+    Oxide
+  authors:
+  - Matthew B. Leonard
+  - Eric Bruni
+  - Morgan Hall
+  - Tianyu Li
+  - Efrain E. Rodriguez
+  - Erin M. Durke
+  publisher: The Journal of Physical Chemistry Letters
+  date: '2022-12-12'
+  link: https://doi.org/g88jwj
+  orcid: 0000-0003-0142-7252
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/d1cc05343d
   title: Mesoporous perovskite titanates <i>via</i> hydrothermal conversion
   authors:
   - Tianyu Li
@@ -582,7 +693,7 @@
   orcid: 0000-0003-0142-7252
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1039/C8CC09573F
+- id: doi:10.1039/c8cc09573f
   title: "Structural studies of the perovskite series La<sub>1\u2212x</sub>Sr<sub>x</sub>CoO<sub>3\u2212\
     \u03B4</sub> during chemical looping with methane"
   authors:
