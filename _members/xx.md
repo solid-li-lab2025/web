@@ -1,11 +1,10 @@
 ---
-name: Mr. Xrystal
+name: Wolalorm Zudor
 image: images/groupmember/x.png
 description: PhD student
 role: phd
 links:
-  email: solid.crystal.lab2025@gmail.com
-  twitter: sarahjohnson
+  email: wmz001@latech.edu
 ---
 
 I am a happy scientist. Sometimes I am Lazy /o\
