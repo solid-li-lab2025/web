@@ -88,7 +88,7 @@ Layered structures (LuFeO3)nLuFe2O4 exhibit a common structural transformation u
 
 {% capture text %}
 
-Tianyu finished his postdoc fellowship at UCSB. I will miss the life in Santa Barbara and mentorship from both Raphaele and Ram.
+Our group received $40,000 in funding from LTRC to support research exploring the susceptor-free microwave fabrication of reinforced cement.
 
 {%
   include button.html
@@ -103,7 +103,7 @@ Tianyu finished his postdoc fellowship at UCSB. I will miss the life in Santa Ba
 
 {%
   include feature.html
-  image="images/ucsb.jpg"
+  image="images/grant/LTRC.jpg"
   link="blog"
   title="Recent News"
   flip=true
