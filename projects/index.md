@@ -32,7 +32,9 @@ nav:
   caption="LA Tech"
   link="https://www.latech.edu/" %}
 
-  {% include figure.html image="images/photo.jpg" %}
+  {% include figure.html image="images/grant/LTRC.jpg" 
+  caption="LTRC"
+  link="https://www.ltrc.la.gov/" %}
 
   {% include figure.html image="images/photo.jpg" %}
 
