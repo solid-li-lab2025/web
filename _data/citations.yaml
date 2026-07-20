@@ -267,8 +267,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/D5EE01564B
-  title: High energy density and micrometer-sized d<sup>0</sup>-free disordered rocksalt
-    cathodes
+  title: "High energy density and micrometer-sized d\n                    <sup>0</sup>\n\
+    \                    -free disordered rocksalt cathodes"
   authors:
   - Vincent C. Wu
   - Erick A. Lawrence
@@ -324,9 +324,17 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PhysRevB.110.144420
-  title: "Itinerant \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:mi>A</mml:mi></mml:math>\n\
-    -type antiferromagnetic order in \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"\
-    ><mml:mrow><mml:msub><mml:mtext>Co</mml:mtext><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>4</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mtext>TaSe</mml:mtext><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>"
+  title: "Itinerant\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"\
+    >\n                      <mml:mi>A</mml:mi>\n                    </mml:math>\n\
+    \                    -type antiferromagnetic order in\n                    <mml:math\
+    \ xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mrow>\n\
+    \                        <mml:msub>\n                          <mml:mtext>Co</mml:mtext>\n\
+    \                          <mml:mrow>\n                            <mml:mn>1</mml:mn>\n\
+    \                            <mml:mo>/</mml:mo>\n                            <mml:mn>4</mml:mn>\n\
+    \                          </mml:mrow>\n                        </mml:msub>\n\
+    \                        <mml:msub>\n                          <mml:mtext>TaSe</mml:mtext>\n\
+    \                          <mml:mn>2</mml:mn>\n                        </mml:msub>\n\
+    \                      </mml:mrow>\n                    </mml:math>"
   authors:
   - H. Cein Mandujano
   - Gicela Saucedo Salas
@@ -503,7 +511,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/D4CC02128B
-  title: Multiscale characterizations of structural evolution in mesoporous CeO<sub>2</sub>
+  title: "Multiscale characterizations of structural evolution in mesoporous CeO\n\
+    \                    <sub>2</sub>"
   authors:
   - Tianyu Li
   - Efrain E. Rodriguez
@@ -524,8 +533,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/d2qm01253g
-  title: High reactivity of mesoporous CeO<sub>2</sub> to dissociate chemical warfare
-    agent sarin
+  title: "High reactivity of mesoporous CeO\n                    <sub>2</sub>\n  \
+    \                  to dissociate chemical warfare agent sarin"
   authors:
   - Tianyu Li
   - Matthew Leonard
@@ -631,7 +640,10 @@
   file: orcid.yaml
 - id: doi:10.1039/d1ma00822f
   title: "Crystal field-induced lattice expansion upon reversible oxygen uptake/release\
-    \ in YbMn<sub><i>x</i></sub>Fe<sub>2\u2212<i>x</i></sub>O<sub>4</sub>"
+    \ in YbMn\n                    <sub>\n                      <i>x</i>\n       \
+    \             </sub>\n                    Fe\n                    <sub>\n    \
+    \                  2\u2212\n                      <i>x</i>\n                 \
+    \   </sub>\n                    O\n                    <sub>4</sub>"
   authors:
   - Tianyu Li
   - Rishvi Jayathilake
@@ -663,7 +675,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/d1cc05343d
-  title: Mesoporous perovskite titanates <i>via</i> hydrothermal conversion
+  title: "Mesoporous perovskite titanates\n                    <i>via</i>\n      \
+    \              hydrothermal conversion"
   authors:
   - Tianyu Li
   - Efrain E. Rodriguez
@@ -694,8 +707,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/c8cc09573f
-  title: "Structural studies of the perovskite series La<sub>1\u2212x</sub>Sr<sub>x</sub>CoO<sub>3\u2212\
-    \u03B4</sub> during chemical looping with methane"
+  title: "Structural studies of the perovskite series La\n                    <sub>1\u2212\
+    x</sub>\n                    Sr\n                    <sub>x</sub>\n          \
+    \          CoO\n                    <sub>3\u2212\u03B4</sub>\n               \
+    \     during chemical looping with methane"
   authors:
   - Tianyu Li
   - Rishvi S. Jayathilake
